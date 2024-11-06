@@ -17,4 +17,7 @@ COMMAND_TO_ATTRIBUTE_MAPPING = {
     "delete": "deletes",
     "update": "updates",
     "find": "filter",
+    "aggregate": "pipeline",
+    "createIndexes": "indexes",
+    "distinct": "query",
 }
